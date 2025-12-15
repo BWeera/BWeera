@@ -5,7 +5,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-- 🔭 I’m currently working on **my research - Gamification for project management**
+- 🔭 I’m currently working on **dyslexia dtection application**
 
 - 💬 Ask me about **latest tech**
 
@@ -24,7 +24,7 @@
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BWeera&theme=dark" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BWeera&theme=dark&cache_seconds=86400" />
 
 </td>
 
@@ -37,7 +37,7 @@
 </table>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=BWeera&theme=radical&row=1&column=7&no-bg=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=BWeera&theme=radical&cache_seconds=86400" />
 </div>
 
 
