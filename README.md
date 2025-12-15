@@ -20,24 +20,24 @@
 <tr border="none">
 <td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=it21303302b&theme=dark&show_icons=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=BWeera&theme=dark&show_icons=true&count_private=true" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=it21303302b&theme=dark" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BWeera&theme=dark" />
 
 </td>
 
 <td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=it21303302b&theme=dark&layout=compact&langs_count=10" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BWeera&theme=dark&layout=compact&langs_count=10" />
 
 </td>
 </tr>
 </table>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=it21303302b&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=BWeera&theme=radical&row=1&column=7&no-bg=true" />
 </div>
 
 
