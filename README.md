@@ -5,7 +5,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-- 🔭 I’m currently working on **dyslexia dtection application**
+- 🔭 I’m currently working on **Ebike battery management app**
 
 - 💬 Ask me about **latest tech**
 
