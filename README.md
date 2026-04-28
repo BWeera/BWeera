@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bimsara Weerakoon</h1>
-<h3 align="center">Software Engineering Undergraduate | Mobile & ML Developer</h3>
+<h3 align="center">Software Engineering Graduate | Mobile & ML Developer</h3>
 
 <p align="center">
   <a href="mailto:bimsaraweerakoon@gmail.com">📧 Email</a> •
@@ -12,7 +12,7 @@
 ## 🚀 About Me
 
 - 🎓 Final-year Software Engineering student  
-- 💼 Currently working as a **Remote Software Engineering Intern (UK)**  
+- 💼 Currently working as a **Remote Software Engineer**  
 - 📱 Focused on **Android & Flutter Development**  
 - 🤖 Exploring **Machine Learning (TensorFlow Lite, Computer Vision)**  
 - 🛠️ Building real-world applications with clean architecture & security in mind  
