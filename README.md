@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Final-year Software Engineering student  
+- 🎓 Software Engineering graduate  
 - 💼 Currently working as a **Remote Software Engineer**  
 - 📱 Focused on **Android & Flutter Development**  
 - 🤖 Exploring **Machine Learning (TensorFlow Lite, Computer Vision)**  
@@ -28,8 +28,8 @@
 - 🔋 **E-Bike Battery Management App**
   - Real-time monitoring & performance tracking
 
-- 🌐 **CeylonNaturalGems Platform**
-  - Full-stack web system (React + Node.js + MongoDB)
+- 🌐 **Ocean Wealth Ceylon**
+  - Full-stack web system (Next.js + Node.js + Sanity)
 
 ---
 
