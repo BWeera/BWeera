@@ -63,11 +63,24 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BWeera&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BWeera&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BWeera&layout=compact&theme=tokyonight" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=BWeera&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    height="165"
+    alt="BWeera GitHub stats"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=BWeera&theme=tokyonight&hide_border=true"
+    height="165"
+    alt="BWeera GitHub streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BWeera&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    height="165"
+    alt="Top languages"
+  />
 </p>
 
 ---
