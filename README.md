@@ -13,7 +13,7 @@
 
 - 🎓 Software Engineering graduate  
 - 💼 Currently working as a **Remote Software Engineer**  
-- 📱 Focused on **Android & Flutter Development**  
+- 📱 Focused on **Fullstack, Android & Flutter Development**  
 - 🤖 Exploring **Machine Learning (TensorFlow Lite, Computer Vision)**  
 - 🛠️ Building real-world applications with clean architecture & security in mind  
 
